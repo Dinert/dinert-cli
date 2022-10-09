@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": false,
+    // 添加 vue 支持
+    "eslint.validate": ["javascript"],
+    "editor.detectIndentation": false,
+    "files.trimTrailingWhitespace": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true,
+        "source.fixAll.stylelint": true
+    }
+}
